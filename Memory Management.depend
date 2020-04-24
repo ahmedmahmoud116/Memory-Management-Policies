@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576799165 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_MemoryManagement/Memory Management/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
